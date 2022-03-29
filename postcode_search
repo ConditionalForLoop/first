@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Simple postcode search
+
+postcode_data = input('Enter your postcode: ')
+
